@@ -11,10 +11,6 @@
   .heading h2 {
     font-size: 20px;
   }
-  
-  .menu-icon {
-    display: none!important;
-  }
 }
 
 @media all and (max-width: 670px) {
